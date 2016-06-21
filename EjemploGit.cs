@@ -8,7 +8,6 @@ public class EjmploGit
 		Console.WriteLine("Hello World");
 		//TESTESTEST
 		Console.WriteLine("Hello World Ferran");
-		//Loop Here
 
 	}
 }
